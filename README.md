@@ -14,5 +14,6 @@ DataReceived 데이터 수신 이벤트 연결 메서드 OnDataReceived(byte[] d
 
 
 To-do
+
 속성 Stopbits,Parity,Databit 추가
 StartCode, DataLangth 값으로 데이터 처리 추가
