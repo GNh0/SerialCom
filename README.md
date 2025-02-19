@@ -1,6 +1,6 @@
 Language : c#
 
-Framework : .NET Framework 8.0
+Framework : .NET Core 8.0
 
 Project : c# Class Library
 
